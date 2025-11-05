@@ -29,7 +29,7 @@ function ConnectMenu() {
         <div className="my-5">
           <Mint/>
         </div>
-        <button className="border p-3 mt-3 rounded-md hover:cursor-pointer hover:bg-red-500" 
+        <button className="border p-2 mt-2 rounded-md hover:cursor-pointer hover:bg-red-500" 
         onClick={()=>{disconnect()}}>Disconnect</button>
       </div>
     );

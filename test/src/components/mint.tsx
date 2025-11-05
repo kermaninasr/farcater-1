@@ -1,4 +1,7 @@
+import { sendNotificationResponseSchema } from '@farcaster/frame-sdk';
 import { useReadContract, useWriteContract, useWaitForTransactionReceipt } from 'wagmi';
+
+
 
 const CONTRACT_ADDRESS = '0x1b4025ccf4cCA3e0B75dba4c156320056c2EBb6f';
 const CONTRACT_ABI = [
@@ -561,6 +564,10 @@ export default function Mint(){
     return(
         <div>
             <p className="text-2xl">Claim your NFT</p>
+
+			<div className=''>
+				<img className='w-1/3 my-2 mx-auto' src="../../public/img/nftpic.jpg" alt="" />
+			</div>
 
             <button onClick={handleMint} className="border p-3 mt-3 rounded-md hover:cursor-pointer hover:bg-green-500">Claim</button>
 
