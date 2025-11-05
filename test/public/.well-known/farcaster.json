@@ -1,9 +1,20 @@
 {
-  "version": "1",
-  "name": "Panda NFT Mint App", 
-  "homeUrl": "https://farcater-1-nk6f.vercel.app", 
-  "iconUrl": "https://farcater-1-nk6f.vercel.app/img/nftpic.jpg", 
-  "splashImageUrl": "https://farcater-1-nk6f.vercel.app/img/nftpic.jpg", 
-  "description": "Mint Panda NFT on Base Chian",
-  "primaryCategory": "Collectibles" 
+  "frame": {
+    "name": "Panda NFT Mint App",
+    "version": "1",
+    "iconUrl": "https://farcater-1-nk6f.vercel.app/img/nftpic.jpg",
+    "homeUrl": "https://farcater-1-nk6f.vercel.app",
+    "imageUrl": "https://farcater-1-nk6f.vercel.app/image.png",
+    "splashImageUrl": "https://farcater-1-nk6f.vercel.app/img/nftpic.jpg",
+    "splashBackgroundColor": "#6200EA",
+    "webhookUrl": "https://farcater-1-nk6f.vercel.app/api/webhook",
+    "subtitle": "Panda NFT Mint App",
+    "description": "Mint Panda NFT on Base Chian",
+    "primaryCategory": "art-creativity"
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjE0Njc1LCJ0eXBlIjoiYXV0aCIsImtleSI6IjB4RjMzYUZhZEI0ODY3MWQ2Yzk5ZkNGRjlCNzU2NjYwZTUwRWRlNjQyMCJ9",
+    "payload": "eyJkb21haW4iOiJmYXJjYXRlci0xLW5rNmYudmVyY2VsLmFwcCJ9",
+    "signature": "sXWn1Fq5H5mu5Wl9vJDPoRO7nMalOR2/aGz+BghhIDJOjMgQvpRwt568RzPivJGvnmWcGzhPvglfNJjcWgrW9hw="
+  }
 }
