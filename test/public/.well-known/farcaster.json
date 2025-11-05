@@ -2,12 +2,12 @@
   "frame": {
     "name": "Panda NFT Mint App",
     "version": "1",
-    "iconUrl": "farcater-3.vercel.app/img/nftpic.jpg",
-    "homeUrl": "farcater-3.vercel.app",
-    "imageUrl": "farcater-3.vercel.app/image.png",
-    "splashImageUrl": "farcater-3.vercel.app/img/nftpic.jpg",
+    "iconUrl": "https://farcater-3.vercel.app/img/nftpic.jpg",
+    "homeUrl": "https://farcater-3.vercel.app",
+    "imageUrl": "https://farcater-3.vercel.app/image.png",
+    "splashImageUrl": "https://farcater-3.vercel.app/img/nftpic.jpg",
     "splashBackgroundColor": "#6200EA",
-    "webhookUrl": "farcater-3.vercel.app/api/webhook",
+    "webhookUrl": "https://farcater-3.vercel.app/api/webhook",
     "subtitle": "Panda NFT Mint App",
     "description": "Mint Panda NFT on Base Chian",
     "primaryCategory": "art-creativity"
