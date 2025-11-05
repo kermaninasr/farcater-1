@@ -1,1 +1,9 @@
-{}
+{
+  "version": "1",
+  "name": "Panda NFT Mint App", 
+  "homeUrl": "https://farcater-1-nk6f.vercel.app", 
+  "iconUrl": "https://farcater-1-nk6f.vercel.app/img/nftpic.jpg", 
+  "splashImageUrl": "https://farcater-1-nk6f.vercel.app/img/nftpic.jpg", 
+  "description": "Mint Panda NFT on Base Chian",
+  "primaryCategory": "Collectibles" 
+}
