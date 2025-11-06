@@ -566,7 +566,7 @@ export default function Mint(){
             <p className="text-2xl">Claim your NFT</p>
 
 			<div className=''>
-				<img className='w-1/3 my-2 mx-auto' src="../../public/img/nftpic.jpg" alt="" />
+				<img className='w-1/3 my-2 mx-auto' src="https://farcater-3.vercel.app/img/nftpic.jpg" alt="" />
 			</div>
 
             <button onClick={handleMint} className="border p-3 mt-3 rounded-md hover:cursor-pointer hover:bg-green-500">Claim</button>
